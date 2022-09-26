@@ -37,17 +37,11 @@ Deployment
 
 👤 **JAMES ASIBEY**
 
-- GitHub:
-- Twitter:
-- LinkedIn:
+- GitHub:[https://github.com/jaamanu](https://github.com/jaamanu)
+- Twitter:[@JamesAsibeyManu](https://twitter.com/JamesAsibeyManu)
+- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
-## Author 2
 
-👤 **Faranosh Amini**
-
-- GitHub: [@FaranoshAmini](https://github.com/FaranoshAmini)
-- Twitter: [@Faranosh_Amini](https://twitter.com/Faranosh_Amini)
-- LinkedIn: [@Faranosh_Amini](https://www.linkedin.com/in/faranosh-amini-9b925b23a/)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
