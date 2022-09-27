@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.awesomeBooks {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  font-family: sans-serif;
+}
+
+.bookDisplay {
+  border: 2px solid #111;
+  width: 80%;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.newDiv:nth-child(odd) {
+  background-color: #eee;
+}
+
+.formHeader {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#book-card {
+  width: 40%;
+  margin: auto;
+}
+
+#author {
+  width: 100%;
+  padding: 3px;
+}
+
+#title {
+  width: 100%;
+  padding: 3px;
+}
+
+.but {
+  display: flex;
+  justify-content: right;
+}
+
+#add {
+  padding: 5px;
+  box-shadow: #1c1c1c 2px 2px;
+}
+
+.hidey {
+  display: none;
+}
+
+.flexIt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+.remove {
+  padding: 4px;
+  box-shadow: #1c1c1c 3px 3px;
+}
