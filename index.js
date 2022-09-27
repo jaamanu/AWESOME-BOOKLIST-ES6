@@ -1,6 +1,6 @@
 import Store from './modules/store.js';
 import UI from './modules/ui.js';
-import {DateTime} from './modules/luxon.js'
+import { DateTime } from './modules/luxon.js';
 
 const store = new Store();
 const ui = new UI();
@@ -28,15 +28,15 @@ document.querySelector('#book-card').addEventListener('submit', (e) => {
   const author = document.querySelector('#author').value;
   if (title !== '' && author !== '') {
     const book = new Book(title, author);
-    //CALL THE OTHER CLASSES TO PASS AND DISPLAY THE BOOKS TO UI
+    // CALL THE OTHER CLASSES TO PASS AND DISPLAY THE BOOKS TO UI
     ui.addBookToList(book);
     ui.clearFields();
     store.addBooks(book);
-  }else {
-    alert('Please fill inputs')
+  } else {
+    alert('Please fill inputs');
   }
 });
-//EVENT DELETE
+// EVENT DELETE
 document.querySelector('.bookDisplay').addEventListener('click', (e) => {
   if (e.target.className === 'remove') {
     const id = e.target.previousElementSibling.innerText;
