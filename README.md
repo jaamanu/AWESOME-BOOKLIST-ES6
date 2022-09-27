@@ -37,10 +37,9 @@ Deployment
 
 👤 **JAMES ASIBEY**
 
-- GitHub:[https://github.com/jaamanu](https://github.com/jaamanu)
-- Twitter:[@JamesAsibeyManu](https://twitter.com/JamesAsibeyManu)
-- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
-
+-GitHub:https://github.com/jaamanu
+-Twitter:@JamesAsibeyManu
+-LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
 
 🤝 Contributing
@@ -57,4 +56,3 @@ Inspiration
 etc
 📝 License
 This project is MIT licensed.
-# AWESOME-BOOKLIST-ES6
