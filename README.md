@@ -44,7 +44,7 @@ copy the url to your local [https://github.com/jaamanu/AWESOME-BOOKLIST-ES6]
 ## JAMES ASIBEY MANU
 
 -GitHub:https://github.com/jaamanu
--Twitter:@JamesAsibeyManu
+-Twitter:(https://twitter.com/JamesAsibeyManu)
 -LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
 ## Faranosh Amini
