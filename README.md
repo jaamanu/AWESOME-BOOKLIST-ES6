@@ -39,7 +39,7 @@ Deployment
 copy the url to your local [https://github.com/jaamanu/AWESOME-BOOKLIST-ES6]
 
 ### Live Demo 
-[Live Demo](https://github.com/jaamanu/AWESOME-BOOKLIST-ES6)
+[Live Demo](https://jaamanu.github.io/AWESOME-BOOKLIST-ES6/)
 
 ## JAMES ASIBEY MANU
 
